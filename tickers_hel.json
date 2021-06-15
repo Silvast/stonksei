@@ -1,0 +1,1586 @@
+[
+        {
+            "name": "NORDEA BANK ABP",
+            "symbol": "NDA_FI.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "NESTE CORPORATION",
+            "symbol": "NESTE.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KONE CORPORATION",
+            "symbol": "KNEBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ERICSSON, TELEFONAB. L M SER. B",
+            "symbol": "ERIBR.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SAMPO PLC A",
+            "symbol": "SAMPO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "NOKIA CORPORATION",
+            "symbol": "NOKIA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "FORTUM CORPORATION",
+            "symbol": "FORTUM.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TELIA COMPANY AB",
+            "symbol": "TELIA1.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "UPM-KYMMENE CORPORATION",
+            "symbol": "UPM.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "STORA ENSO OYJ A",
+            "symbol": "STEAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ELISA CORPORATION",
+            "symbol": "ELISA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "STORA ENSO OYJ R",
+            "symbol": "STERV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KESKO CORPORATION B",
+            "symbol": "KESKOB.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KESKO CORPORATION A",
+            "symbol": "KESKOA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "WARTSILA CORPORATION",
+            "symbol": "WRT1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ORION CORPORATION B",
+            "symbol": "ORNBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ORION CORPORATION A",
+            "symbol": "ORNAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "METSO CORPORATION",
+            "symbol": "METSO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KOJAMO PLC",
+            "symbol": "KOJAMO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "HUHTAMAKI OYJ",
+            "symbol": "HUH1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "NOKIAN TYRES PLC",
+            "symbol": "TYRES.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "VALMET CORPORATION",
+            "symbol": "VALMT.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TIETOEVRY CORPORATION",
+            "symbol": "TIETO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SSAB AB SER. A",
+            "symbol": "SSABAH.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SSAB AB SER. B",
+            "symbol": "SSABBH.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KONECRANES PLC",
+            "symbol": "KCR.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "METSA BOARD OYJ A",
+            "symbol": "METSA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "METSA BOARD OYJ B",
+            "symbol": "METSB.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KEMIRA OYJ",
+            "symbol": "KEMIRA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SANOMA CORPORATION",
+            "symbol": "SAA1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "CARGOTEC OYJ",
+            "symbol": "CGCBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "AHLSTROM-MUNKSJO OYJ",
+            "symbol": "AM1.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "OUTOKUMPU OYJ",
+            "symbol": "OUT1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TERVEYSTALO PLC",
+            "symbol": "TTALO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "YIT CORPORATION",
+            "symbol": "YIT.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "VAISALA CORPORATION A",
+            "symbol": "VAIAS.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "FISKARS CORPORATION",
+            "symbol": "FSKRS.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "CAVERION OYJ",
+            "symbol": "CAV1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "UPONOR OYJ",
+            "symbol": "UPONOR.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "OUTOTEC OYJ",
+            "symbol": "OTE1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "OLVI PLC A",
+            "symbol": "OLVAS.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ASIAKASTIETO GROUP OYJ",
+            "symbol": "ATG1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "REVENIO GROUP CORPORATION",
+            "symbol": "REG1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "AKTIA BANK PLC",
+            "symbol": "AKTIA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "PONSSE OYJ 1",
+            "symbol": "PON1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TOKMANNI GROUP OYJ",
+            "symbol": "TOKMAN.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ALMA MEDIA CORPORATION",
+            "symbol": "ALMA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "AS TALLINK GRUPP FDR",
+            "symbol": "TALLINK.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TIKKURILA OYJ",
+            "symbol": "TIK1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "FINNAIR OYJ",
+            "symbol": "FIA1S.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "LASSILA & TIKANOJA PLC",
+            "symbol": "LAT1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "EQ OYJ",
+            "symbol": "EQV1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "QT GROUP OYJ",
+            "symbol": "QTCOM.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "RAISIO PLC K",
+            "symbol": "RAIKV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "RAISIO PLC VAIHTO-OSAKE",
+            "symbol": "RAIVV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "F-SECURE CORPORATION",
+            "symbol": "FSC1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "HOIVATILAT OYJ",
+            "symbol": "HOIVA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "BASWARE CORPORATION",
+            "symbol": "BAS1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "CAPMAN PLC",
+            "symbol": "CAPMAN.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ADMICOM OYJ",
+            "symbol": "ADMCM.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ORIOLA CORPORATION A",
+            "symbol": "OKDAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ORIOLA CORPORATION B",
+            "symbol": "OKDBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "PIHLAJALINNA OYJ",
+            "symbol": "PIHLIS.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KAMUX CORPORATION",
+            "symbol": "KAMUX.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "BANK OF ALAND PLC A",
+            "symbol": "ALBAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SCANFIL PLC",
+            "symbol": "SCANFL.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "BANK OF ALAND PLC B",
+            "symbol": "ALBBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "DETECTION TECHNOLOGY OYJ",
+            "symbol": "DETEC.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ALTIA PLC",
+            "symbol": "ALTIA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "EVLI PANKKI OYJ",
+            "symbol": "EVLI.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ROVIO ENTERTAINMENT CORPORATION",
+            "symbol": "ROVIO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "MARIMEKKO CORPORATION",
+            "symbol": "MMO1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TALENOM OYJ",
+            "symbol": "TNOM.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "OMA SAASTOPANKKI OYJ",
+            "symbol": "OMASP.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ETTEPLAN OYJ",
+            "symbol": "ETTE.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TAALERI OYJ",
+            "symbol": "TAALA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ATRIA PLC A",
+            "symbol": "ATRAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ASPO PLC",
+            "symbol": "ASPO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "BITTIUM CORPORATION",
+            "symbol": "BITTI.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "VIKING LINE ABP",
+            "symbol": "VIK1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "HARVIA PLC",
+            "symbol": "HARVIA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "STOCKMANN PLC A",
+            "symbol": "STCAS.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "NOHO PARTNERS OYJ",
+            "symbol": "NOHO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "HKSCAN OYJ A",
+            "symbol": "HKSAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "STOCKMANN PLC B",
+            "symbol": "STCBV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "FARON PHARMACEUTICALS OY",
+            "symbol": "FARON.XHEL",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "VERKKOKAUPPA.COM OYJ",
+            "symbol": "VERK.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "REMEDY ENTERTAINMENT OYJ",
+            "symbol": "REMEDY.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "EEZY OYJ",
+            "symbol": "EEZY.XHEL",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "SUOMINEN OYJ",
+            "symbol": "SUY1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "RELAIS GROUP OYJ",
+            "symbol": "RELAIS.XHEL",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "KESKISUOMALAINEN OYJ A",
+            "symbol": "KSLAV.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "DIGIA PLC",
+            "symbol": "DIGIA.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "LEHTO GROUP OYJ",
+            "symbol": "LEHTO.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "ILKKA-YHTYMA OYJ 1",
+            "symbol": "ILK1S.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "RAPALA VMC CORPORATION",
+            "symbol": "RAP1V.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "GOFORE PLC",
+            "symbol": "GOFORE.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "TITANIUM OYJ",
+            "symbol": "TITAN.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        },
+        {
+            "name": "RAUTE CORPORATION A",
+            "symbol": "RAUTE.XHEL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "Helsinki Stock Exchange",
+                "acronym": "OMXH",
+                "mic": "XHEL",
+                "country": "Finland",
+                "country_code": "FI",
+                "city": "Helsinki",
+                "website": "www.nasdaqomxnordic.com"
+            }
+        }
+    ]
