@@ -31,7 +31,8 @@ url <- paste("http://api.marketstack.com/v1/eod?access_key=", apikey, "&symbols=
 }
 
 print("****STOCKHOLM STOCKS RSI BELOW 30****")
-
+print("Current date:")
+print(Sys.Date())
 for (i in 1:length(tickers_st)) {
   try(find_tobuy(tickers_st[i], symbols_stockholm))
 }
